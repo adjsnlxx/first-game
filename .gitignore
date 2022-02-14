@@ -1,0 +1,9 @@
+/Library/*
+/Logs/*
+/Log/*
+/obj/*
+/Temp/*
+/Assets/StreamingAssets/*
+/.vs/*
+/ExcelTemp
+/Assets/Editor/EditorConfig/editor_custom.cfg
